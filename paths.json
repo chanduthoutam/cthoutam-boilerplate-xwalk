@@ -1,6 +1,9 @@
 {
   "mappings": [
-    "/content/cthoutam-xwalk/:/"
+    "/content/cthoutam-xwalk/:/",
+    "/content/cthoutam-xwalk/configuration:/.helix/config.json",
+    "/content/cthoutam-xwalk/metadata:/.helix/metadata.json"
+    
   ],
   "includes": [
     "/content/cthoutam-xwalk/"
