@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p188902-e1969281.adobeaemcloud.com/bin/franklin.delivery/chanduthoutam/cthoutam-boilerplate-xwalk/main"
+    url: "https://author-p188902-e1969281.adobeaemcloud.com/bin/franklin.delivery/chanduthoutam/cthoutam-xwalk/main"
     type: "markup"
     suffix: ".html"
